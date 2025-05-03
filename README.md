@@ -80,6 +80,6 @@ This EDA showcases basic data analysis and visualization skills using Python. It
 
 ## 📬 Contact
 
-Made by [Your Name] – aspiring data analyst / data scientist.  
+Made by MD Jaoyad – aspiring data scientist.  
 Feel free to reach out via [Gmail](jawadism420@gmail.com).
 
